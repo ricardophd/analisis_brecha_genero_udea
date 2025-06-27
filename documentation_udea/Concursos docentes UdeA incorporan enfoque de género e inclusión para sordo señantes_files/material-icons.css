@@ -1,0 +1,10 @@
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  src: url(https://www.udea.edu.co/wps/wcm/connect/udea/5b3ad1ea-4460-4350-9260-ec97ffa74520/material-icons.woff2?MOD=AJPERES) format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+}
